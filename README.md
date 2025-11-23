@@ -1,6 +1,6 @@
-# ⚽ My Computer Vision Assignment
 
-This is my assignment for analyzing a soccer training video.  
+
+This ist for analyzing a soccer training video.  
 The video is from YouTube: https://www.youtube.com/watch?v=k9gRgg_tW24  
 
 The goal was to detect when the player touches the ball with the left or right leg, try to guess ball rotation, and calculate the player's velocity at each touch.  
